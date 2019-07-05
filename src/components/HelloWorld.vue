@@ -114,6 +114,16 @@ export default {
         //     }
         // ]
         // console.log('afIntersectWithKey',b.afDiffWithKey(a,'key'));
+
+
+        /**              Object 方法               */
+        // get
+        // var obj = { 'a': { 'b': { 'c': 3 } } };
+        // let name = window.afUtil.afGet.call(obj,'a.b.c',4);
+        // console.log(name);
+
+        /**              Number 方法               */
+        // console.log(Math.afRandom(5,true));
     }
 }
 </script>

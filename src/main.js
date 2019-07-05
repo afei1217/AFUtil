@@ -4,7 +4,7 @@ import App from './App'
 import router from './router'
 
 // 引入原型链的扩展
-import './util/categray';
+import './util/category';
 
 Vue.config.productionTip = false
 
